@@ -279,7 +279,7 @@ _Related: [Polls and Events](#polls-and-events)_
 - [QloApps](https://qloapps.com/) - An open-source, customizable and intuitive web-based hotel reservation system and a booking engine. ([Demo](https://demo.qloapps.com/), [Source Code](https://github.com/webkul/hotelcommerce)) `OSL-3.0` `PHP/Nodejs`
 - [Rallly](https://rallly.co) - Create polls to vote on dates and times (alternative to Doodle). ([Demo](https://app.rallly.co), [Source Code](https://github.com/lukevella/rallly)) `AGPL-3.0` `Nodejs/Docker`
 - [Seatsurfing](https://seatsurfing.app/) - Webbased app to book seats, desks and rooms for offices. ([Source Code](https://github.com/seatsurfing/backend)) `GPL-3.0` `Docker`
-
+- [Indico](https://getindico.org/) - The effortless open-source tool for event organisation, archival and collaboration ([Source Code](https://github.com/indico/indico)), [Demo](https://sandbox.getindico.io/) `MIT License` `Python`
 
 ### Bookmarks and Link Sharing
 
